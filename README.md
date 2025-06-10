@@ -1,4 +1,4 @@
-#Grupo: Filipe Maciel, Jesseh Albuquerque, João Henrique e Antônio Neto.
+# Grupo: Filipe Maciel, Jesseh Albuquerque, João Henrique e Antônio Neto.
 # Agenda Multitarefas (Tasker) - Landing Page
 
 ## 1. Introdução ao Projeto
