@@ -219,6 +219,7 @@ A criação desta landing page seguiu uma abordagem modular e iterativa:
 Como este projeto está configurado para carregar dependências (React, ReactDOM, Tailwind CSS) via CDN e utiliza `importmap`, ele pode ser visualizado diretamente em um navegador moderno que suporte essas tecnologias.
 
 1. Entre na pasta do projeto
-2. Abra um terminal na pasta e execute o comando: npm run dev
+2. Abra um terminal na pasta e execute o comando:
+   ```npm run dev```
 
 Este projeto demonstra a criação de uma landing page moderna e responsiva utilizando React, TypeScript e Tailwind CSS, com uma abordagem que prioriza a componentização, a reutilização de código e uma experiência de desenvolvimento ágil para prototipagem rápida.
